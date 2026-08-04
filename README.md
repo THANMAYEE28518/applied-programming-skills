@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/THANMAYEE28518/applied-programming-skills/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/THANMAYEE28518/applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/THANMAYEE28518/applied-programming-skills/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/THANMAYEE28518/applied-programming-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -24,4 +25,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/THANMAYEE28518/applied-programming-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/THANMAYEE28518/applied-programming-skills/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/THANMAYEE28518/applied-programming-skills/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/THANMAYEE28518/applied-programming-skills/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/THANMAYEE28518/applied-programming-skills/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
